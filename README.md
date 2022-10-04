@@ -8,6 +8,7 @@
   4. Observation based on the above Analysis
   
 Kindly refer  link further details. 
+https://github.com/namadipta/LendingClub/blob/main/Lending%20Club%20Case%20Study.pdf
 
 ## Contributors
   - Namadipta Patro Bellana
