@@ -7,7 +7,7 @@
   3. Bivariate  Analysis
   4. Observation based on the above Analysis
   
-Kindly refer [casestudy.pdf](/Lending Club Case Study.pdf) further details. 
+Kindly refer [casestudy.pdf](/Lending%20Club%20Case%20Study.pdf) further details. 
 
 ## Contributors
   - Namadipta Patro Bellana
