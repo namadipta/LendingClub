@@ -10,5 +10,5 @@
 Kindly refer  link further details. 
 
 ## Contributors
-Minha Kousar Qureshi
-Namadipta Patro Bellana
+  Minha Kousar Qureshi
+  Namadipta Patro Bellana
